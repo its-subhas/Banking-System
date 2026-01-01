@@ -1,5 +1,5 @@
 # Banking-System
-Banking System.
+
 # 🏦 Banking System
 
 A **console-based Banking System application** developed using **Java and MySQL**.
